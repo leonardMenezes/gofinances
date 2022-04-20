@@ -18,10 +18,12 @@ expo start
 
 ```
 expo (Bare workflow) com typescript
-styled components com tipagem para o react-nativ
+styled components com tipagem para o react-native
 expo app loading
 expo font
-react-native-responsive-fontsize . Usa a media exata do figma e ela será renderizada na proporção de cada dispositivo
+react-native-responsive-fontsize . Usa a media exata do figma e ela será renderizada na proporção de cada dispositivo.
+react-hook-form, para validação de formulários.
+react-navigation
 ```
 
 
