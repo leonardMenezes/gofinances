@@ -21,9 +21,12 @@ expo (Bare workflow) com typescript
 styled components com tipagem para o react-native
 expo app loading
 expo font
-react-native-responsive-fontsize . Usa a media exata do figma e ela será renderizada na proporção de cada dispositivo.
-react-hook-form, para validação de formulários.
+react-native-responsive-fontsize - usa a media exata do figma e ela será renderizada na proporção de cada dispositivo.
+react-hook-form - para validação de formulários.
 react-navigation
+async-storage
+react-native-uuid - para gerar Ids aleatórios
+intl - para formatação de datas
 ```
 
 
